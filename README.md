@@ -99,7 +99,7 @@ FrontEnd/
 1. Clone project:
 
    ```bash
-   git clone <link-repo>
+   git clone https://github.com/Son-Tung/POS_Point-of-sale.git
    ```
 2. Mở bằng IntelliJ IDEA hoặc Eclipse.
 3. Cấu hình database trong `application.properties`.
